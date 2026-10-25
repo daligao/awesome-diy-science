@@ -28,6 +28,7 @@ Free simulation platforms you can run in a browser — no equipment needed.
 - [PhysicsHub](https://github.com/0xyd/physicshub) ⭐60 — Browser-based physics simulations: projectile motion, waves, optics.
 - [Physics-Notebook](https://github.com/demidenko05/physics-notebook) ⭐280 — Interactive Jupyter notebooks covering classical mechanics, E&M, waves, and thermodynamics with live Python simulations.
 - [sciencelab3d](https://github.com/rudra496/sciencelab3d) ⭐15 — 40+ interactive 3D STEM lab simulations running in-browser.
+- [Scivra](https://www.scivra.com/) — Interactive 3D virtual labs for high school physics, chemistry and biology, running in the browser.
 
 ---
 
