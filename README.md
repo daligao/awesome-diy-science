@@ -35,6 +35,7 @@ Free simulation platforms you can run in a browser — no equipment needed.
 
 Python and web tools for simulating and visualizing physical phenomena.
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐29 — Open-source finite-element workflows for learners ready to explore beam bending and heat transfer; [six guided exercises](https://lab.haoming-luo.com/learn/en.html) include prompts, reference results, and English, French, and Chinese handouts. Running new simulations requires installation.
 - [diffractsim](https://github.com/rafael-fuente/diffractsim) ⭐1063 — Diffraction and wave optics simulator using the angular spectrum method. Produces stunning visualizations of double-slit, single-slit, and Fresnel diffraction.
 - [N-body Simulation](https://github.com/rafael-fuente/N-body-numerical-simulation) ⭐76 — Gravitational N-body integrator in Python. Visualize how planets, stars, and galaxies evolve under gravity.
 - [Computational Physics in Python](https://github.com/natsunoyuki/Computational_Physics_in_Python) ⭐27 — Clean code examples: pendulums, wave equations, Schrödinger equation, Monte Carlo methods. Each script is self-contained.
