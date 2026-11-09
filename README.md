@@ -64,7 +64,7 @@ Python and web tools for simulating and visualizing physical phenomena.
 
 ## 🔭 Astronomy & Space Science
 
-- [Space Atlas — Interactive Astronomy](https://saramjh.github.io/space_atlas_student/) — Free browser-based guided explorations of Moon phases, axial tilt and Earth seasons, and cosmic scale; suitable as teacher-led concept demos, no account required.
+- [Space Atlas — Interactive Astronomy](https://spaceatlasedu.org/) — Free Moon-phase, Earth-seasons and cosmic-scale models for adult educator-led demonstrations; no account required. The site uses GA4 and AdSense; direct use by children under 13 has not been cleared.
 
 - [Stellarium](https://github.com/Stellarium/stellarium) ⭐9859 — Real-time 3D planetarium. Renders the sky exactly as it appears anywhere on Earth on any date. Shows planets, stars, nebulae, and satellites. Available on desktop and web.
 - [NASA Apollo 11 Source Code](https://github.com/chrislgarry/Apollo-11) ⭐72000+ — Original guidance computer source code that landed humans on the Moon in 1969. The most famous open-source codebase in history.
